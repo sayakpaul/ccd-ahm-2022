@@ -9,7 +9,6 @@ The notebooks provided in this repository use _paid_ Google Cloud Platform (GCP)
 * [Google Cloud Storage (GCS)](https://cloud.google.com/storage)
 * [Vertex AI Prediction](https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions)
 * [Google Container Registry (GCR)](https://cloud.google.com/container-registry)
-* 
 
 So, I assume you already have a billing-enabled GCP Project and you can:
 
