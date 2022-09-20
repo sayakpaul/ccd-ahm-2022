@@ -1,5 +1,5 @@
 # ccd-ahm-2022
-Contains my code and deck for [Cloud Community Days Ahmedabad 2022](https://gdg.community.dev/events/details/google-gdg-cloud-ahmedabad-presents-google-cloud-community-day-2022/). 
+Contains my code and deck for [Cloud Community Days Ahmedabad 2022](https://gdg.community.dev/events/details/google-gdg-cloud-ahmedabad-presents-google-cloud-community-day-2022/): **Fantastic ML Deployments and How to Do Them with Vertex AI**. 
 
 ## Prerequisites
 
