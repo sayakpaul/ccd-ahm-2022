@@ -21,7 +21,7 @@ So, I assume you already have a billing-enabled GCP Project and you can:
 The notebooks are in `notebooks` directory. Below is a brief description of each notebook:
 
 * `resnet-export.ipynb` shows how to export a TensorFlow model (image recognition) compatible with
-off-the-shelf Vertex AI deployment.
+off-the-shelf Vertex AI deployment. The deployment part will be covered via the Vertex AI GUI console. 
 * `onnx-conversion.ipynb` shows how to optimized the TensorFlow model with ONNX and compares the latency
 of the both the models (TensorFlow and ONNX).
 * `custom-onnx-deployment.ipynb` shows how to deploy the ONNX model to Vertex AI using custom prediction
